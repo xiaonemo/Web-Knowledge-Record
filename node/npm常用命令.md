@@ -19,6 +19,7 @@
 ### npm config 管理npm的配置路径
 ### npm cache 管理模块的缓存
 #### npm cache clean 清除本地缓存
+#### npm cache clear --force
 
 ### npm start 启动模块
 ### npm stop 停止模块
